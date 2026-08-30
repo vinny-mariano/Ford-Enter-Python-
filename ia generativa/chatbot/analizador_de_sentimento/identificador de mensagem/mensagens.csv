@@ -1,0 +1,131 @@
+mensagem,categoria
+"Meu pedido ainda não chegou",reclamação
+"O produto veio quebrado",reclamação
+"Não consigo acessar minha conta",dúvida
+"Como faço para alterar minha senha?",dúvida
+"Gostei muito do atendimento",elogio
+"Parabéns pela rapidez no suporte",elogio
+"Preciso da segunda via do boleto",solicitação
+"Quero atualizar meu cadastro",solicitação
+"A entrega atrasou novamente",reclamação
+"Fiquei muito satisfeito com a compra",elogio
+"O aplicativo está travando",reclamação
+"Como solicitar reembolso?",dúvida
+"Excelente suporte técnico",elogio
+"Preciso cancelar meu pedido",solicitação
+"O site está fora do ar",reclamação
+"Como entro em contato com o suporte?",dúvida
+"O atendimento foi incrível",elogio
+"Gostaria de trocar meu endereço",solicitação
+"Minha encomenda veio errada",reclamação
+"Quais formas de pagamento vocês aceitam?",dúvida
+"Adorei o produto recebido",elogio
+"Preciso alterar meu plano",solicitação
+"O sistema apresenta erro ao pagar",reclamação
+"Como acompanhar minha entrega?",dúvida
+"Equipe muito educada e eficiente",elogio
+"Gostaria de solicitar um orçamento",solicitação
+"Recebi um item diferente do comprado",reclamação
+"Como redefinir minha senha?",dúvida
+"Fui muito bem atendido",elogio
+"Preciso atualizar meus dados pessoais",solicitação
+"A compra foi cancelada sem aviso",reclamação
+"Qual o prazo de entrega?",dúvida
+"Atendimento rápido e eficiente",elogio
+"Quero solicitar suporte técnico",solicitação
+"O pagamento não foi aprovado corretamente",reclamação
+"Como faço login no sistema?",dúvida
+"Estou muito satisfeito com o serviço",elogio
+"Gostaria de receber uma proposta comercial",solicitação
+"O aplicativo fecha sozinho",reclamação
+"Como emitir nota fiscal?",dúvida
+"Parabéns pela qualidade do atendimento",elogio
+"Preciso solicitar manutenção",solicitação
+"A plataforma está muito lenta",reclamação
+"Como cancelar minha assinatura?",dúvida
+"Excelente experiência de compra",elogio
+"Gostaria de agendar um atendimento",solicitação
+"Meu cupom de desconto não funciona",reclamação
+"Como alterar meu e-mail cadastrado?",dúvida
+"O suporte resolveu meu problema rapidamente",elogio
+"Preciso solicitar uma visita técnica",solicitação
+"Minha entrega veio incompleta",reclamação
+"Não consigo finalizar a compra",reclamação
+"O sistema está apresentando erro",reclamação
+"Minha nota fiscal não chegou",reclamação
+"O aplicativo está muito lento",reclamação
+"Recebi cobrança duplicada",reclamação
+"O atendimento demorou demais",reclamação
+"Meu acesso foi bloqueado sem motivo",reclamação
+"A página de pagamento não abre",reclamação
+"Minha assinatura foi cancelada sozinha",reclamação
+"O produto chegou danificado",reclamação
+"Não consigo atualizar meus dados",reclamação
+"A plataforma caiu novamente",reclamação
+"Meu pedido veio faltando itens",reclamação
+"O rastreamento não funciona",reclamação
+"Meu desconto não foi aplicado",reclamação
+"O suporte não respondeu minha solicitação",reclamação
+"A entrega passou do prazo informado",reclamação
+"Estou enfrentando erro no login",reclamação
+"Meu boleto venceu antes do prazo",reclamação
+"Como recupero minha senha?",dúvida
+"Qual o horário de atendimento?",dúvida
+"Como alterar minha assinatura?",dúvida
+"Vocês possuem suporte por telefone?",dúvida
+"Como rastrear meu pedido?",dúvida
+"Quais cartões são aceitos?",dúvida
+"Como atualizar meu endereço?",dúvida
+"Existe atendimento aos finais de semana?",dúvida
+"Como solicito troca de produto?",dúvida
+"Posso parcelar minha compra?",dúvida
+"Como emitir segunda via?",dúvida
+"Qual o prazo de análise?",dúvida
+"Como faço para cancelar?",dúvida
+"Posso alterar meu pedido?",dúvida
+"Como redefino meu cadastro?",dúvida
+"Vocês possuem aplicativo?",dúvida
+"Como acompanho minha solicitação?",dúvida
+"Existe garantia para os produtos?",dúvida
+"Como entro em contato com o financeiro?",dúvida
+"Qual o prazo para reembolso?",dúvida
+"Excelente qualidade no atendimento",elogio
+"Gostei muito da experiência",elogio
+"O suporte foi muito atencioso",elogio
+"Entrega rápida e eficiente",elogio
+"Equipe extremamente profissional",elogio
+"Fiquei impressionado com a rapidez",elogio
+"O sistema é muito fácil de usar",elogio
+"Parabéns pelo excelente serviço",elogio
+"Atendimento cordial e eficiente",elogio
+"Estou muito satisfeito com o produto",elogio
+"O aplicativo é excelente",elogio
+"Ótimo suporte técnico",elogio
+"A resolução do problema foi rápida",elogio
+"Equipe muito prestativa",elogio
+"Excelente experiência no site",elogio
+"Vocês estão de parabéns",elogio
+"O produto superou minhas expectativas",elogio
+"Muito obrigado pelo suporte",elogio
+"O chatbot ajudou bastante",elogio
+"A navegação no sistema é ótima",elogio
+"Preciso atualizar minha forma de pagamento",solicitação
+"Gostaria de solicitar reembolso",solicitação
+"Quero alterar meu plano atual",solicitação
+"Preciso falar com um atendente",solicitação
+"Gostaria de agendar uma demonstração",solicitação
+"Preciso da segunda via da nota fiscal",solicitação
+"Quero solicitar cancelamento",solicitação
+"Gostaria de alterar meu e-mail",solicitação
+"Preciso solicitar uma troca",solicitação
+"Quero atualizar meus dados cadastrais",solicitação
+"Gostaria de abrir um chamado técnico",solicitação
+"Preciso solicitar suporte urgente",solicitação
+"Quero receber mais informações",solicitação
+"Gostaria de contratar outro plano",solicitação
+"Preciso alterar meu endereço de entrega",solicitação
+"Quero solicitar uma visita técnica",solicitação
+"Gostaria de renegociar meu pagamento",solicitação
+"Preciso gerar um novo boleto",solicitação
+"Quero acessar meu histórico de compras",solicitação
+"Gostaria de receber contato comercial",solicitação
